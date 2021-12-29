@@ -14,8 +14,8 @@ var (
 	testingUser = "testopencx"
 	testingPass = "testpass"
 	// root user stuff
-	rootUser = "root"
-	rootPass = ""
+	rootUser = "opencx"
+	rootPass = "root"
 	// test string to put before test schemas
 	testString = "testopencxdb_"
 )

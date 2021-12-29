@@ -49,7 +49,7 @@ var (
 	defaultDBPort         = uint16(3306)
 	defaultDBHost         = "localhost"
 	defaultDBUser         = "opencx"
-	defaultDBPass         = "testpass"
+	defaultDBPass         = "root"
 
 	// definitely move this to a config file
 	defaultReadOnlyOrderSchema   = "orders_readonly"
